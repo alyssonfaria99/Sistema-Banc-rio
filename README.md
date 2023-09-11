@@ -12,10 +12,7 @@
 $ git clone https://github.com/alyssonfaria99/Sistema-Bancario.git
 
 #### *Acesse a pasta do projeto no terminal/cmd*
-$ cd academy-template-readme-projects
-
-#### *Vá para a pasta server*
-$ cd server
+$ cd Sistema-Bancario
 
 #### *Instale as dependências*
 $ npm install
