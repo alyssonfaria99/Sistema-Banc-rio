@@ -9,7 +9,7 @@
 
   
 #### *Clone este repositório*
-$ git clone git@github.com/alyssonfaria99/Sistema-Bancario
+$ git clone https://github.com/alyssonfaria99/Sistema-Bancario.git
 
 #### *Acesse a pasta do projeto no terminal/cmd*
 $ cd academy-template-readme-projects
