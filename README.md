@@ -25,6 +25,9 @@ $ npm run dev
 Para utilizar das diferentes funcionalidades do servidor, é aconselhado ter o sofware Insomnia ou outro framework para teste de API instalado na máquina. No Insomnia ou no navegador, digite os endpoints encontrados a seguir
 para utilizar as funcionalidades da API.
 
+![Sem título](https://github.com/alyssonfaria99/Sistema-Bancario/assets/139504868/450343f7-673f-4c61-9582-d8211ae70b4e)
+
+
 
 ## ⚙️ Funcionalidades
   A API desenvolvida conta com as seguintes funcionalidades e seus respectivos endpoints:
