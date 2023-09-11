@@ -9,7 +9,7 @@
 
   
 #### *Clone este repositório*
-$ git clone git@github.com:cubos-academy/academy-template-readme-projects.git
+$ git clone git@github.com/alyssonfaria99/Sistema-Bancario
 
 #### *Acesse a pasta do projeto no terminal/cmd*
 $ cd academy-template-readme-projects
