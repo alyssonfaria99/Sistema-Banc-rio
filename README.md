@@ -1,4 +1,4 @@
-#  🏦 API Sistema Bancario - Cubos Bank
+#  🏦 API Sistema Bancário - Cubos Bank
 
 ## 💻 Sobre o projeto
   Este projeto foi desenvolvido como requisito para aprovação no Módulo 2 do curso de Desenvolvimento de Sofware com foco em back-end oferecido pela [Cubos Academy](https://cubos.academy/).
