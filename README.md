@@ -117,6 +117,14 @@ Consulta o saldo disponível em uma conta. Para isso, deve ser informado no corp
 #### `GET` `/contas/extrato?numero_conta=123&senha=123`
 
 Consulta todas as movimentações de recurso relacionadas a uma determinada conta. Para isso, devem ser informados como parâmetros de consultas os valores "numero_conta" e "senha".
+
+## 🛠 Tecnologias
+
+-  [NodeJS](https://nodejs.org/en)
+-  [Express](https://expressjs.com/pt-br/)
+-  [Insomnia](https://insomnia.rest/download)
+-  [Visual Studio Code](https://code.visualstudio.com/)
+
     
   
   
